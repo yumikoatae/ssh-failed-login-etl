@@ -1,0 +1,8 @@
+Sep  3 10:12:34 myhost sshd[12345]: Failed password for root from 192.168.0.1 port 22 ssh2
+Sep  3 10:13:02 myhost sshd[12346]: Failed password for admin from 192.168.0.2 port 22 ssh2
+Sep  3 10:15:20 myhost sshd[12347]: Failed password for user1 from 192.168.0.3 port 22 ssh2
+Sep  3 10:16:45 myhost sshd[12348]: Failed password for root from 192.168.0.1 port 22 ssh2
+Sep  3 10:20:00 myhost sshd[12349]: Failed password for user3 from 192.168.0.4 port 22 ssh2
+Sep  3 10:22:15 myhost sshd[12350]: Failed password for user1 from 192.168.0.3 port 22 ssh2
+Sep  3 10:25:10 myhost sshd[12351]: Failed password for root from 192.168.0.1 port 22 ssh2
+

@@ -1,0 +1,11 @@
+CREATE DATABASE IF NOT EXISTS logs;
+
+USE logs;
+
+CREATE TABLE IF NOT EXISTS failed_logins (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    timestamp DATETIME,
+    username VARCHAR(50),
+    ip VARCHAR(50)
+);
+

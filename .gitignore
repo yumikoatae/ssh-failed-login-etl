@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Outputs e resultados temporários
+outputs/
+
+# Banco de dados local
+*.db
+
+# Environment file
+.env
+
+# Sistema/Editor
+.DS_Store
+*.swp
+
