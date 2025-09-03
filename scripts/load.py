@@ -7,7 +7,7 @@ import mysql.connector
 # ================================
 # Load environment variables
 # ================================
-load_dotenv()  # lê o arquivo .env
+load_dotenv()  
 
 USER = os.getenv("DB_USER")
 PASSWORD = os.getenv("DB_PASSWORD")
